@@ -1,4 +1,3 @@
-````markdown
 # 📚 MachineLearning – Centrale Paris
 
 This repository contains a set of **Jupyter notebooks** developed as part of the Machine Learning curriculum at **Centrale Paris**.  
@@ -67,5 +66,4 @@ This project is licensed under the **MIT License** – see the [LICENSE](LICENSE
 For any questions or collaboration requests:
 **Alassane Diallo** – [LinkedIn](https://www.linkedin.com/) | [Email](mailto:your.email@example.com)
 
-```
 
